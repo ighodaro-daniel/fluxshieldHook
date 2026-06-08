@@ -1,6 +1,4 @@
-FluxShield
-Oracle-Aware Adaptive Fee Infrastructure for LVR Mitigation
-Abstract
+
 FluxShield is an oracle‑aware adaptive fee mechanism built on Uniswap v4 hooks that aims to reduce Loss‑Versus‑Rebalancing (LVR) by dynamically adjusting swap fees based on real‑time market deviations between AMM spot prices and external oracle prices.
 
 Traditional AMMs expose liquidity providers (LPs) to systematic extraction from arbitrageurs whenever pool prices diverge from global market prices. Arbitrage is necessary for price synchronization, but current fee structures underprice the toxic flow responsible for LP inventory loss.
